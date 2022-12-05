@@ -1,4 +1,4 @@
-## About
+# About: Academic
 Howdy, my names **Hawkmask** (not actually). 
 - I am a current senior Computer Engineering and Engineering (MECH) student who also dabbles in modern physics and advanced math. 
 - I’m interested in making cyborgs and space robots and training up more to do likewise. 
@@ -16,6 +16,29 @@ Howdy, my names **Hawkmask** (not actually).
 ## Collaboration
 
 *I’m looking to collaborate on any robotics project. Pretty much anything goes, but I'm especially interested in bipedal legged locomotion, human augmentation, novel sensing methods, space, and anything else cool!*
+
+# About: Extracurricular
+
+Although I enjoy all of my engineering endeveors, but aside from that, I do have other hobbies (somehow).
+- Making Art
+    - Digital drawing/painting
+    - Traditional drawing/painting
+    - Sculpting
+    - Building Gunpla
+- Playing Music
+    - Flute
+    - Piano
+    - Guitar
+    - Bass Guitar
+    - Accordion
+- Taekwondo
+- Playing Games
+    - DnD
+    - Destiny 2
+    - Half Life
+    - Pokemon
+    - Zork
+    - Sonic
 
 <!---
 Hawkmask/Hawkmask is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
