@@ -1,5 +1,5 @@
 ## About
-Howdy, my names **Hawkmask**. 
+Howdy, my names **Hawkmask** (not actually). 
 - I am a current senior Computer Engineering and Engineering (MECH) student who also dabbles in modern physics and advanced math. 
 - I’m interested in making cyborgs and space robots and training up more to do likewise. 
 
