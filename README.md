@@ -1,7 +1,9 @@
 # About: Academic
-Howdy, my names **Hawkmask** (not actually). 
-- I am a current senior Computer Engineering and Engineering (MECH) student who also dabbles in modern physics and advanced math. 
+Howdy, my names **Hawkmask** (not actually, but I'm shy). 
+- I am a current robotics grad student.
 - I’m interested in making cyborgs and space robots and training up more to do likewise. 
+- I hold my B.S. in Mechanical Engineering and Computer Engineering
+
 
 **In less sci-fi terms (*and more boring terms*):**
     
@@ -11,7 +13,6 @@ Howdy, my names **Hawkmask** (not actually).
     - I hope to one day pass my passion for helping others and learning on to the next generation.
     
 - I'm really excited about machine learning and the prospects of low cost ways to manufacture advanced sensors.
-- I hope to pursue a PhD in robotics and am currently applying for masters degrees at CMU and OSU. 
 
 ## Collaboration
 
